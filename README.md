@@ -3,7 +3,11 @@ Psychological interventions for mental health disorders among university student
 
 ## Summary
 
+Mental disorders such as depression, anxiety, and psychosis, constitute a significant global health burden, affecting diverse populations amid rising unemployment, poverty, and limited educational access.
 
+A systematic review and meta-analysis was done to examine the efficacy of psychological in-terventions for mental health disorders among university students in Africa. The meta-analysis was conducted using a Random-Effects Model.
+
+A comprehensive search for scientific publications published in English between 2010 and 2024 in four databases: `Medline (PubMed)`, `Web of Science`, `Scopus`, and `gray literature sources`, yielded articles encompassing a range of intervention types and study designs. 
 
 ## Setup
 
